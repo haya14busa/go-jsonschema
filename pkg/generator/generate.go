@@ -11,8 +11,8 @@ import (
 	"github.com/pkg/errors"
 	"github.com/sanity-io/litter"
 
-	"github.com/atombender/go-jsonschema/pkg/codegen"
-	"github.com/atombender/go-jsonschema/pkg/schemas"
+	"github.com/haya14busa/go-jsonschema/pkg/codegen"
+	"github.com/haya14busa/go-jsonschema/pkg/schemas"
 )
 
 type Config struct {
